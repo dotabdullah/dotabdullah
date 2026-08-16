@@ -7,6 +7,7 @@ I build intelligent, high-performing applications combining robust full-stack de
 ---
 
 💼 **AVAILABLE FOR HIRE / FREELANCE CONTRACTS**
+
 Need custom WordPress architecture, AI agent integrations, n8n automation, or SaaS application development? Let's build something great together!
 
 [![](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923111765486)
